@@ -1,4 +1,4 @@
-# [GitHub Repository README — google 색인 효과]
+# [GitHub Repository README]
 # 저장소명 제안: moduquant / korean-quant-backtest
 # 설명: Korean quant backtesting platform — no coding required
 # 토픽 태그: quant, backtest, korean-stock, fintech, investing, kospi, kosdaq
