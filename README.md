@@ -46,10 +46,15 @@ MDD — 최대 낙폭
 📖 퀀트 투자 학습 센터
 📖 RSI 전략 백테스트 방법
 📖 MACD 전략 백테스트 방법
-
 English
 ModuQuant is a no-code Korean stock backtesting platform.
-10 years of real KOSPI/KOSDAQ data 
+
+10 years of real KOSPI/KOSDAQ data (~2,000 tickers, 2015–present)
+No-code strategy builder: RSI, MACD, Moving Average, Bollinger Bands, PBR/PER
+AI-powered parameter optimization (500+ combinations)
+Walk-Forward analysis to prevent overfitting
+Factor model: momentum, value, quality, low-volatility
+Free plan: 5 backtests/day · Paid: ₩11,000/month (~$8 USD) unlimited
 
 🌐 www.moduquant.com
 
@@ -60,6 +65,17 @@ Data: Real KRX market data
 관련 키워드
 퀀트 백테스트 주식 백테스트 사이트 코딩 없이 퀀트 퀀트 투자 입문 RSI 백테스트 MACD 백테스트 이동평균 전략 가치투자 백테스트 KOSPI 백테스트 KOSDAQ 전략 한국 주식 퀀트 백테스트 무료 quant backtest korea korean stock backtest no-code quant
 
+모든 백테스트 결과는 교육 목적 시뮬레이션이며 실제 투자 권유가 아닙니다.
+All backtest results are for educational purposes only and not investment advice.
+
+Frontend: Next.js 16 (App Router), TypeScript, Tailwind CSS
+Infrastructure: Cloudflare Workers (OpenNext), D1 Database
+Data: Real KRX market data (HTS feed)
+Links
+🌐 Website: www.moduquant.com
+📖 Docs: www.moduquant.com/strategy_docs
+📧 Contact: support@moduquant.com
+All backtest results are educational simulations and not investment advice.
 모든 백테스트 결과는 교육 목적 시뮬레이션이며 실제 투자 권유가 아닙니다.
 All backtest results are for educational purposes only and not investment advice.
 
